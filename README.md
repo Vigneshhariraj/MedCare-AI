@@ -1,7 +1,3 @@
-Sure! Here's a detailed and professional **README** file for **MedCare AI** that you can customize based on your actual features and tech stack.
-
----
-
 # 🏥 MedCare AI
 
 **AI-Powered Healthcare Platform for Smarter, Faster, and Accessible Medical Services**
